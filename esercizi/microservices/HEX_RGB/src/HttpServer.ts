@@ -1,4 +1,3 @@
-Learn more or give us feedback
 import HttpController from './controller/HttpController';
 import express from 'express';
 import * as config from '../server-config.json'
