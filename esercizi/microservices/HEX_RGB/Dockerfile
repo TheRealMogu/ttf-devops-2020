@@ -6,4 +6,3 @@ RUN npm install
 WORKDIR /API/dist/HEXtoRGB/src/
 EXPOSE 3000
 CMD ["node","HttpServer.js"]
-© 2020 GitHub, Inc.
